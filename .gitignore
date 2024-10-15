@@ -1,0 +1,38 @@
+# Python files
+*.pyc
+__pycache__/
+
+# Fortran files
+*.o
+*.mod
+*.smod
+
+# CMake files
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Build directories
+/build/
+/bin/
+/lib/
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.swp
+*.bak
+
+# Executable files
+*.exe
+*.out
+
+# IDE-specific files (e.g., VSCode, JetBrains)
+.vscode/
+.idea/
+
+# MacOS-specific
+.DS_Store
